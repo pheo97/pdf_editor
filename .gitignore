@@ -6,3 +6,7 @@ __pycache__/
 # Ignore uploads folder contents
 uploads/*
 !uploads/.gitkeep
+
+#Ignore output folder contents
+output/*
+!output/.gitkeep
